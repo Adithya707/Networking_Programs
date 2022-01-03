@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<stdlib.h>
 int main()
 {
     int n,b,n1;
@@ -73,5 +74,6 @@ int main()
                 printf("%d ",r[i][j]);
         }
     }
+    printf("\n");
 return 0;
 }
